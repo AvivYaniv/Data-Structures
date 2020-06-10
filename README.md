@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Data-Structures.svg)](http://hits.dwyl.com/AvivYaniv/Data-Structures)
+
 # Data-Structures
 
 ## Assignments
