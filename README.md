@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Data-Structures.svg)](http://hits.dwyl.com/AvivYaniv/Data-Structures)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Data-Structures.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Data-Structures.svg)](http://hits.dwyl.com/AvivYaniv/Data-Structures) <br/>
 
 # Data-Structures
 
